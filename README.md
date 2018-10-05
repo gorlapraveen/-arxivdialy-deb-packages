@@ -17,22 +17,28 @@ If you don't specify the number of results, by default, the script returns 5 res
 We've found that this script works well with keywords that are:
 
 > a model (e.g. transformer, wavenet, ...)
+
 > a dataset (e.g. wikitext, imagenet, ...)
+
 > a task (e.g. 'language model', 'machine translation', 'fuzzing', ...)
+
 > a metric (e.g. BLEU, perplexity, ...)
+
 > random stuff
 
 =================================================================================================
 
-Example usage : In your terminal
+**Example usage :** In your terminal
 
-arxiv any_word number_of_results
-any_word : Replace this word with your choice
-Number_of_reslut: Number of results you need, ex :10
+`arxiv any_word number_of_results`
 
-Example Command: arxiv agriculture 10
+`any_word` : Replace this word with your choice
 
-Results in top 10 updates of arxiv repositories containing agriculture in abstract.
+`Number_of_reslut`: Number of results you need, ex :`10`
+
+**Example Command:** `arxiv agriculture 10`
+
+Results in top `10` updates of `arxiv` repositories containing `agriculture` in abstract.
 
 
 
