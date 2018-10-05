@@ -40,6 +40,10 @@ We've found that this script works well with keywords that are:
 
 Results in top `10` updates of `arxiv` repositories containing `agriculture` in abstract.
 
+------------------------------
+
+Note: Developed by @gorlapraveen , after forking and adapting it from https://github.com/chiphuyen/sotawhat @chiphuyen
+
 
 
 
