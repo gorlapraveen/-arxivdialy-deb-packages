@@ -1,0 +1,83 @@
+ dpkg-buildpackage -rfakeroot -us -uc
+dpkg-buildpackage: warning: using a gain-root-command while being root
+dpkg-buildpackage: info: source package arxivupdates
+dpkg-buildpackage: info: source version 1.0-1
+dpkg-buildpackage: info: source distribution unstable
+dpkg-buildpackage: info: source changed by Gorla Praveen <gorlapraveen@gmail.com>
+ dpkg-source --before-build arxivupdates-1.0
+dpkg-buildpackage: info: host architecture amd64
+ fakeroot debian/rules clean
+dh clean
+   dh_testdir
+   dh_auto_clean
+   dh_clean
+ dpkg-source -b arxivupdates-1.0
+dpkg-source: info: using source format '3.0 (quilt)'
+dpkg-source: info: building arxivupdates using existing ./arxivupdates_1.0.orig.tar.xz
+dpkg-source: info: building arxivupdates in arxivupdates_1.0-1.debian.tar.xz
+dpkg-source: info: building arxivupdates in arxivupdates_1.0-1.dsc
+ debian/rules build
+dh build
+   dh_testdir
+   dh_update_autotools_config
+   dh_auto_configure
+   dh_auto_build
+   dh_auto_test
+   create-stamp debian/debhelper-build-stamp
+ fakeroot debian/rules binary
+dh binary
+   create-stamp debian/debhelper-build-stamp
+   dh_testroot
+   dh_prep
+   dh_auto_install
+   dh_install
+   dh_installdocs
+   dh_installchangelogs
+   dh_perl
+   dh_link
+   dh_strip_nondeterminism
+   dh_compress
+   dh_fixperms
+   dh_installdeb
+   dh_gencontrol
+   dh_md5sums
+   dh_builddeb
+dpkg-deb: building package 'arxivupdates' in '../arxivupdates_1.0-1_all.deb'.
+ dpkg-genbuildinfo
+ dpkg-genchanges  >../arxivupdates_1.0-1_amd64.changes
+dpkg-genchanges: info: including full source code in upload
+ dpkg-source --after-build arxivupdates-1.0
+dpkg-buildpackage: info: full upload (original source is included)
+Now running lintian...
+warning: the authors of lintian do not recommend running it with root privileges!
+W: arxivupdates source: dh-make-template-in-source debian/arxivupdates.cron.d.ex
+W: arxivupdates source: dh-make-template-in-source debian/arxivupdates.default.ex
+W: arxivupdates source: dh-make-template-in-source debian/arxivupdates.doc-base.EX
+W: arxivupdates source: dh-make-template-in-source debian/manpage.1.ex
+W: arxivupdates source: dh-make-template-in-source debian/manpage.sgml.ex
+W: arxivupdates source: dh-make-template-in-source debian/manpage.xml.ex
+W: arxivupdates source: dh-make-template-in-source debian/menu.ex
+W: arxivupdates source: dh-make-template-in-source debian/postinst.ex
+W: arxivupdates source: dh-make-template-in-source debian/postrm.ex
+W: arxivupdates source: dh-make-template-in-source debian/preinst.ex
+W: arxivupdates source: dh-make-template-in-source debian/prerm.ex
+W: arxivupdates source: dh-make-template-in-source debian/watch.ex
+W: arxivupdates source: superfluous-clutter-in-homepage <insert the upstream URL, if relevant>
+W: arxivupdates source: bad-homepage <insert the upstream URL, if relevant>
+W: arxivupdates source: missing-field-in-dep5-copyright license (paragraph at line 6)
+W: arxivupdates: new-package-should-close-itp-bug
+W: arxivupdates: extended-description-line-too-long
+W: arxivupdates: superfluous-clutter-in-homepage <insert the upstream URL, if relevant>
+W: arxivupdates: bad-homepage <insert the upstream URL, if relevant>
+W: arxivupdates: script-with-language-extension usr/bin/arxiv.sh
+E: arxivupdates: subdir-in-usr-bin usr/bin/arxiv/
+W: arxivupdates: script-with-language-extension usr/bin/requirements.py
+W: arxivupdates: script-with-language-extension usr/bin/sotawhat.py
+W: arxivupdates: binary-without-manpage usr/bin/arxiv.sh
+W: arxivupdates: binary-without-manpage usr/bin/requirements.py
+W: arxivupdates: binary-without-manpage usr/bin/requirements.txt
+W: arxivupdates: binary-without-manpage usr/bin/sotawhat.py
+W: arxivupdates: executable-not-elf-or-script usr/bin/requirements.txt
+W: arxivupdates: executable-not-elf-or-script usr/bin/sotawhat.py
+W: arxivupdates: executable-not-elf-or-script usr/bin/requirements.py
+Finished running lintian.

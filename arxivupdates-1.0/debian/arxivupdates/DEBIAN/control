@@ -1,0 +1,11 @@
+Package: arxivupdates
+Version: 1.0-1
+Architecture: all
+Maintainer: Gorla Praveen <gorlapraveen@gmail.com>
+Installed-Size: 27
+Section: utils
+Priority: optional
+Homepage: <insert the upstream URL, if relevant>
+Description: Arxiv commandline updates
+ This utility is used to get daily arxiv research updates from your terminal, it searches your
+ preferred word by most updated research articles from arxiv repository

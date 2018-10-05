@@ -1,0 +1,6 @@
+arxiv.sh usr/bin
+arxiv.sh usr/bin/arxiv
+*.py usr/bin
+*.txt usr/bin
+
+

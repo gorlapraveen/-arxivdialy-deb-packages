@@ -1,0 +1,16 @@
+Source: arxivupdates
+Section: utils
+Priority: optional
+Maintainer: Gorla Praveen <gorlapraveen@gmail.com>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.8
+Homepage: <insert the upstream URL, if relevant>
+#Vcs-Git: https://anonscm.debian.org/collab-maint/arxivupdates.git
+#Vcs-Browser: https://anonscm.debian.org/cgit/collab-maint/arxivupdates.git
+
+Package: arxivupdates
+Architecture: all
+Depends: ${misc:Depends}
+Description:Arxiv commandline updates
+ This utility is used to get daily arxiv research updates from your terminal, it searches your 
+ preferred word by most updated research articles from arxiv repository
