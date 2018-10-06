@@ -70,14 +70,14 @@ W: arxivupdates: extended-description-line-too-long
 W: arxivupdates: superfluous-clutter-in-homepage <insert the upstream URL, if relevant>
 W: arxivupdates: bad-homepage <insert the upstream URL, if relevant>
 W: arxivupdates: script-with-language-extension usr/bin/arxiv.sh
-E: arxivupdates: subdir-in-usr-bin usr/bin/arxiv/
 W: arxivupdates: script-with-language-extension usr/bin/requirements.py
 W: arxivupdates: script-with-language-extension usr/bin/sotawhat.py
+W: arxivupdates: binary-without-manpage usr/bin/arxiv
 W: arxivupdates: binary-without-manpage usr/bin/arxiv.sh
 W: arxivupdates: binary-without-manpage usr/bin/requirements.py
 W: arxivupdates: binary-without-manpage usr/bin/requirements.txt
 W: arxivupdates: binary-without-manpage usr/bin/sotawhat.py
-W: arxivupdates: executable-not-elf-or-script usr/bin/requirements.txt
 W: arxivupdates: executable-not-elf-or-script usr/bin/sotawhat.py
+W: arxivupdates: executable-not-elf-or-script usr/bin/requirements.txt
 W: arxivupdates: executable-not-elf-or-script usr/bin/requirements.py
 Finished running lintian.
