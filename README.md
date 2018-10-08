@@ -27,6 +27,7 @@ We've found that this script works well with keywords that are:
 > random stuff
 
 =================================================================================================
+
 **Required Dependenices** : After `dpkg` package installation, run `arxiv_required` for required packages to be installed before using it.
 
 **Example usage :** In your terminal
