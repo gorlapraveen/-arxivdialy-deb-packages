@@ -27,6 +27,7 @@ We've found that this script works well with keywords that are:
 > random stuff
 
 =================================================================================================
+**Required Dependenices** : After `dpkg` package installation, run `arxiv_required` for required packages to be installed before using it.
 
 **Example usage :** In your terminal
 
@@ -40,7 +41,7 @@ We've found that this script works well with keywords that are:
 
 Results in top `10` updates of `arxiv` repositories containing `agriculture` in abstract.
 
-**Note** : If there are any errors while prasing the information, there there might be the problem while installing the required packages. So, simple run `arxiv_required` in your terminal to install required packages.
+**ERROR Note** : If there are any errors while prasing the information, there there might be the problem while installing the required packages. So, simple run `arxiv_required` in your terminal to install required packages.
 
 **Requirements**: `Pyhton 3.0 +`, and `pip3 +`
 
