@@ -2,7 +2,7 @@
 # preinst script for arxivupdates
 #
 # see: dh_installdeb(1)
-./globalinstall.sh
+
 set -e
 
 # summary of how this script can be called:
@@ -16,6 +16,14 @@ set -e
 
 case "$1" in
     install|upgrade)
+    echo 'Installing required packages for Arxiv_updates---------'
+    echo '-------------------------------------------------------'
+    bash -c "sudo pip3 install PyEnchant"
+    bash -c "sudo pip3 install nltk" 
+    python - << EOF
+    import nltk
+    nltk.download('punkt')
+EOF
     ;;
 
     abort-upgrade)

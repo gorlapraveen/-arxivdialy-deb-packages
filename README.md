@@ -40,6 +40,8 @@ We've found that this script works well with keywords that are:
 
 Results in top `10` updates of `arxiv` repositories containing `agriculture` in abstract.
 
+**Note** : If there are any errors while prasing the information, there there might be the problem while installing the required packages. So, simple run `arxiv_required` in your terminal to install required packages.
+
 ------------------------------
 
 Note: Developed by @gorlapraveen , after forking and adapting it from https://github.com/chiphuyen/sotawhat @chiphuyen

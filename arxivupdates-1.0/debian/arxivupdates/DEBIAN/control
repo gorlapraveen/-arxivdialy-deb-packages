@@ -2,7 +2,7 @@ Package: arxivupdates
 Version: 1.0-1
 Architecture: all
 Maintainer: Gorla Praveen <gorlapraveen@gmail.com>
-Installed-Size: 26
+Installed-Size: 27
 Section: utils
 Priority: optional
 Homepage: <insert the upstream URL, if relevant>

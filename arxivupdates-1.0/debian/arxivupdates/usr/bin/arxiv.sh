@@ -1,5 +1,7 @@
 #!/bin/bash
-echo 'Please wait while we phrase the requested information from global arxiv servers -------- '
+echo 'Please wait while we phrase the requested information from global arxiv[arxiv.org] servers -------- '
+echo 'If there are any errors'
+echo 'please Abort, and run `arxiv_required` for required package installation, and start again'
 echo ' '
 a=$1
 b=$2

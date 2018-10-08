@@ -74,10 +74,11 @@ W: arxivupdates: script-with-language-extension usr/bin/requirements.py
 W: arxivupdates: script-with-language-extension usr/bin/sotawhat.py
 W: arxivupdates: binary-without-manpage usr/bin/arxiv
 W: arxivupdates: binary-without-manpage usr/bin/arxiv.sh
+W: arxivupdates: binary-without-manpage usr/bin/arxiv_required
 W: arxivupdates: binary-without-manpage usr/bin/requirements.py
 W: arxivupdates: binary-without-manpage usr/bin/requirements.txt
 W: arxivupdates: binary-without-manpage usr/bin/sotawhat.py
 W: arxivupdates: executable-not-elf-or-script usr/bin/requirements.txt
-W: arxivupdates: executable-not-elf-or-script usr/bin/sotawhat.py
 W: arxivupdates: executable-not-elf-or-script usr/bin/requirements.py
+W: arxivupdates: executable-not-elf-or-script usr/bin/sotawhat.py
 Finished running lintian.
