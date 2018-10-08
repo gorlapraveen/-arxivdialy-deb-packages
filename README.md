@@ -42,6 +42,10 @@ Results in top `10` updates of `arxiv` repositories containing `agriculture` in 
 
 **Note** : If there are any errors while prasing the information, there there might be the problem while installing the required packages. So, simple run `arxiv_required` in your terminal to install required packages.
 
+**Requirements**: Pyhron 3.0 >, and pip3 >
+
+
+
 ------------------------------
 
 Note: Developed by @gorlapraveen , after forking and adapting it from https://github.com/chiphuyen/sotawhat @chiphuyen
