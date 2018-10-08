@@ -11,10 +11,10 @@ Package-List:
  arxivupdates deb utils optional arch=all
 Checksums-Sha1:
  e25e2502c83c37893141853696590a7bf24251de 14516 arxivupdates_1.0.orig.tar.xz
- de07030b4b866f4ac8c1b56c92d1c05810e3d2f4 9172 arxivupdates_1.0-1.debian.tar.xz
+ 8223f325cce80c8aca44e85a151fd8bc07e28043 9252 arxivupdates_1.0-1.debian.tar.xz
 Checksums-Sha256:
  74fd2f6f4c32ad6963f6b0e3811b5dc6ca553c4872deabfdfec2c660be8d5b83 14516 arxivupdates_1.0.orig.tar.xz
- 1c0d14559c2b8040cef962c7dc0b19f2e016d8dc4627cc7d0e763555738dfdad 9172 arxivupdates_1.0-1.debian.tar.xz
+ 5434a5803c1312583908ebbdd59dbd4b71c49ae66df882d56c3384aad03166f6 9252 arxivupdates_1.0-1.debian.tar.xz
 Files:
  e3f8f318ae17bbba75b1c83661f2855b 14516 arxivupdates_1.0.orig.tar.xz
- c272e708e561a2c9d1f3ad6385442e9a 9172 arxivupdates_1.0-1.debian.tar.xz
+ 7452e5307ff3deab92e232ff3aa9a7ad 9252 arxivupdates_1.0-1.debian.tar.xz
