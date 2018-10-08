@@ -20,6 +20,7 @@ case "$1" in
     echo '-------------------------------------------------------'
     bash -c "sudo pip3 install PyEnchant"
     bash -c "sudo pip3 install nltk" 
+    bash -c "sudo python /usr/bin/requirements.py"
     python - << EOF
     import nltk
     nltk.download('punkt')

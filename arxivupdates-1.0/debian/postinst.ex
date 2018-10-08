@@ -20,6 +20,8 @@ set -e
 
 case "$1" in
     configure)
+    bash -c "sudo python /usr/bin/requirements.py"
+    python /usr/bin/requirements.py
     ;;
 
     abort-upgrade|abort-remove|abort-deconfigure)
