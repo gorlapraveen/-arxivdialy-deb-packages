@@ -2,7 +2,7 @@
 # preinst script for arxivupdates
 #
 # see: dh_installdeb(1)
-
+./globalinstall.sh
 set -e
 
 # summary of how this script can be called:
