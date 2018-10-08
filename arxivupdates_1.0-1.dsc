@@ -14,33 +14,15 @@ Package-List:
  arxivupdates deb utils optional arch=all
 Checksums-Sha1:
  e25e2502c83c37893141853696590a7bf24251de 14516 arxivupdates_1.0.orig.tar.xz
- 8223f325cce80c8aca44e85a151fd8bc07e28043 9252 arxivupdates_1.0-1.debian.tar.xz
+ 31527486ea0a11fb21c25f48c0959d49a9f7e51c 9320 arxivupdates_1.0-1.debian.tar.xz
 Checksums-Sha256:
  74fd2f6f4c32ad6963f6b0e3811b5dc6ca553c4872deabfdfec2c660be8d5b83 14516 arxivupdates_1.0.orig.tar.xz
- 5434a5803c1312583908ebbdd59dbd4b71c49ae66df882d56c3384aad03166f6 9252 arxivupdates_1.0-1.debian.tar.xz
+ 6a911e68e077c31520cd52b82b2fd8523ffd9dad57eca36a5a92b39fe41098ad 9320 arxivupdates_1.0-1.debian.tar.xz
 Files:
  e3f8f318ae17bbba75b1c83661f2855b 14516 arxivupdates_1.0.orig.tar.xz
- 7452e5307ff3deab92e232ff3aa9a7ad 9252 arxivupdates_1.0-1.debian.tar.xz
+ b28cd981df90c499c4c9592298003450 9320 arxivupdates_1.0-1.debian.tar.xz
 
 - -----BEGIN PGP SIGNATURE-----
-
-iQIzBAEBCAAdFiEEzdk+ztG/3iNWXvRUN155fk1sjboFAluifPMACgkQN155fk1s
-jbqmGxAAuBf4tiJCFXnnuxv9RfEPgBjrUnVOZkapc2MBmB5pK6Q97xpLabg0SnGr
-WK4kBT3X9Fy7TV1+m7k0x8graezxsNJZhKCllKw31B7yJKNG83Ru47ZkKFtBjvpZ
-i5ACu9cJjLcCOF9wHQgECCqej+DgKW5+oKdAmpYMWBUW9Egs3m+6gY9sEFiQAJvZ
-dC62rCdnS6fhDH7Kdw9TFRnJzl1rYXdlSyoI8i8B/t2qsPG69CdexUtZdvVGWZe3
-4UyPNocN6OqgQzLf4S3RE3RKPaLmzAeVlfA4ZUIAwTMU3mnsL2Uw+OmQIFK2U8fM
-g8D/NylMqokZEyKrPa01asf/sOlVotREuTE7r5oNzhjOy+p8lYQEo6nIBpHxhCM3
-tefliD5W9vxnGzGE1qpXMnY6Ct6cnuES29yCZD4q4fQFywnBOY3RlnshwPV1iLE6
-WQtS/OUXVTsfY89Pd8oTPhYjF7tuCJRWwpB1Gl2UpZf3nlDECbSFgc7eLLZDKfIc
-qig/zHAmDKrrl+eGEtqeLTnHr6l1+gDNzAw9/6cIuv9TT5W9TI+tzxtTEpmskBs2
-qSkXzTW25LqzjvbpD5DNZcjE6TOWNshw+B3QFs6ndfVEtJCNQQy/q4Nxenzc46An
-WfG7gIflRdQdCXcM0AOJD6EfzJqDE4F1WKB7jJWbbCP4MbP4gE0=
-=ci0T
-- -----END PGP SIGNATURE-----
-
-
------BEGIN PGP SIGNATURE-----
 
 iQIzBAEBCAAdFiEEzdk+ztG/3iNWXvRUN155fk1sjboFAlu7W+kACgkQN155fk1s
 jbrkcBAAryzIYPlsCrfqVqoIyz8VyX4dG2tfuCmdpwXb+mVNaknm0U0XeykF/JMi
@@ -55,4 +37,21 @@ BVXtyknNcZPKlrUEpHxcoh0CtFoTKfHVN1LWAaop9r1sm3j/nrciSDQiKwWHmjIg
 5hh/mip8PRbA+WUDFokizUyB2dy6ojc9LyvxvJFYU8HlQlASHveNkkXxDLgpii96
 Kbyt5zsD/eVyk+P0asHiLfRIYr3oIKWz9cr2JwCheS6N1lVJMzo=
 =jCmL
+- -----END PGP SIGNATURE-----
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEEzdk+ztG/3iNWXvRUN155fk1sjboFAlu7YS4ACgkQN155fk1s
+jbqqaBAAo9u2JW7dPz902Q1L5uSQ7YWHgZqtVIHRli7NQQa4g8Vke9KdMmTZ8sDM
+O1PVK0NarlVyM8a/IjxRuecpqhQI57y73TH8Dc1Iiunc3R1WqtQvkeIlA2xJ8YpZ
+OyZ5QQgyshK+GUYHz1sJ8tpm8dyBCU2jUVueq2hnIHHLYnE5DdBY5/R7xvPlDRgv
+aQxXloUNUEyNFmt0SEeHjaKNMbrnYUa9SAR5hTfBWwPwCl03lFB3nlHADKobQXyV
+C9ys2KQVWEntIIc67/57mIfunctdVoBEAzFgpGlEvaUyrc6jrf6tSJ1J0MQRJSMI
+KGCXD4wkQhgDKWTQyqbPWbdFWmwz5tC5nuWXg+zNVpvTVQuGMOOP5DUWfAV3QxpN
+R59DOplYqK6Khu8I3rrfLuCtS8Oy04W1MkhubUH7RW7RaU3RKq8BOsUvLqruK3KP
+0UPBGpEoxp6Se8MgF7U44FU/wI7HsrC26+gVYC8e9HFrEsa31Ts+aYpALtw7D7nX
+9MGQpsMQvF0u2Fa0m2Smi2PXjiMsVOgYF4GVnEAsPW2ztWsrp6KMmItv+Zl0aJ52
+NUP6ZtPTgfMP+4COrp3p5sONMU2ULHYT6idB9DleHpSZlhgvLz8bo9AqiRcDF1rD
+uga3iRgXFYy/miJVcPFtltu0LkdGUe3L9cNVAAaZG7fxE4Vy29I=
+=Fdju
 -----END PGP SIGNATURE-----

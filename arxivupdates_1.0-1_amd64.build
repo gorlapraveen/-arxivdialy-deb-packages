@@ -78,7 +78,7 @@ W: arxivupdates: binary-without-manpage usr/bin/arxiv_required
 W: arxivupdates: binary-without-manpage usr/bin/requirements.py
 W: arxivupdates: binary-without-manpage usr/bin/requirements.txt
 W: arxivupdates: binary-without-manpage usr/bin/sotawhat.py
+W: arxivupdates: executable-not-elf-or-script usr/bin/requirements.txt
 W: arxivupdates: executable-not-elf-or-script usr/bin/requirements.py
 W: arxivupdates: executable-not-elf-or-script usr/bin/sotawhat.py
-W: arxivupdates: executable-not-elf-or-script usr/bin/requirements.txt
 Finished running lintian.

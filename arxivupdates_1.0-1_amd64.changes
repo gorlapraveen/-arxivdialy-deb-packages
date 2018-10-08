@@ -15,20 +15,20 @@ Changes:
  .
    * Initial release (Closes: )
 Checksums-Sha1:
- 9482ec1546049b2499d91f243215520db73b082f 852 arxivupdates_1.0-1.dsc
+ 26d5113d9b45a6ffd4da707982190215d2fb94c6 852 arxivupdates_1.0-1.dsc
  e25e2502c83c37893141853696590a7bf24251de 14516 arxivupdates_1.0.orig.tar.xz
- 8223f325cce80c8aca44e85a151fd8bc07e28043 9252 arxivupdates_1.0-1.debian.tar.xz
- 631a87d217211521f7a3f15b2b37f2072b99cde6 5646 arxivupdates_1.0-1_all.deb
- 1cca5259287d99398015dea3bec6d72efdaa365e 5161 arxivupdates_1.0-1_amd64.buildinfo
+ 31527486ea0a11fb21c25f48c0959d49a9f7e51c 9320 arxivupdates_1.0-1.debian.tar.xz
+ 3ace0fa3f638f7d6604548d6a8ca2994d162d7be 5670 arxivupdates_1.0-1_all.deb
+ 2c083185ae539a0170b0236d348f8f10a99e0367 5161 arxivupdates_1.0-1_amd64.buildinfo
 Checksums-Sha256:
- dc4f33e5ec52b1b3fb2f35939c40a906b77ccacbc00c74663b61f71ee066df6b 852 arxivupdates_1.0-1.dsc
+ 4783cb91d8d817aa1d0f26536ec3c55ae3596797708e758ad0e4639e38b29f17 852 arxivupdates_1.0-1.dsc
  74fd2f6f4c32ad6963f6b0e3811b5dc6ca553c4872deabfdfec2c660be8d5b83 14516 arxivupdates_1.0.orig.tar.xz
- 5434a5803c1312583908ebbdd59dbd4b71c49ae66df882d56c3384aad03166f6 9252 arxivupdates_1.0-1.debian.tar.xz
- e737a0be741207f643a67c4f58861107581a579d646c76c2c8211fff72096092 5646 arxivupdates_1.0-1_all.deb
- fb84867c3b49983156821c63cc595f86e1f4de93d810066ba98b120db798d3cb 5161 arxivupdates_1.0-1_amd64.buildinfo
+ 6a911e68e077c31520cd52b82b2fd8523ffd9dad57eca36a5a92b39fe41098ad 9320 arxivupdates_1.0-1.debian.tar.xz
+ edc73a0864b939b0a6ce943d4d770bce0b83febe36f8937cdf9b82281052b940 5670 arxivupdates_1.0-1_all.deb
+ 09df3c90ce10a5432ea9f4a6cb6ac762b57fffe8cdcb92cce406ab966e3822d1 5161 arxivupdates_1.0-1_amd64.buildinfo
 Files:
- b5c9b087b3cba8338cf5721fffc92509 852 utils optional arxivupdates_1.0-1.dsc
+ 7d0e712270dfaeaa2491d7cd8c2ddcd0 852 utils optional arxivupdates_1.0-1.dsc
  e3f8f318ae17bbba75b1c83661f2855b 14516 utils optional arxivupdates_1.0.orig.tar.xz
- 7452e5307ff3deab92e232ff3aa9a7ad 9252 utils optional arxivupdates_1.0-1.debian.tar.xz
- 242c60844614b8f6862f635d93514acc 5646 utils optional arxivupdates_1.0-1_all.deb
- f7fe3fb5fd45a0ff5795f759aaeb68cb 5161 utils optional arxivupdates_1.0-1_amd64.buildinfo
+ b28cd981df90c499c4c9592298003450 9320 utils optional arxivupdates_1.0-1.debian.tar.xz
+ 180d3e5d7dc82add0a2873ed7d0b648a 5670 utils optional arxivupdates_1.0-1_all.deb
+ 78c3295bc6cf6e87881a6e6aabd54ee9 5161 utils optional arxivupdates_1.0-1_amd64.buildinfo
