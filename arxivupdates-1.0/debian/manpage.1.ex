@@ -1,10 +1,10 @@
 .\"                                      Hey, EMACS: -*- nroff -*-
-.\" (C) Copyright 2018 Gorla Praveen <gorlapraveen@gmail.com>,
+.\" (C) Copyright 2018 debian <debian@gorlapraveen@gmail.com>,
 .\"
 .\" First parameter, NAME, should be all caps
 .\" Second parameter, SECTION, should be 1-8, maybe w/ subsection
 .\" other parameters are allowed: see man(7), man(1)
-.TH Arxivupdates SECTION "October  5 2018"
+.TH Arxivupdates SECTION "October 12 2018"
 .\" Please adjust this date whenever revising the manpage.
 .\"
 .\" Some roff macros, for reference:

@@ -4,17 +4,17 @@ Binary: arxivupdates
 Architecture: all source
 Version: 1.0-1
 Checksums-Md5:
- 7d0e712270dfaeaa2491d7cd8c2ddcd0 852 arxivupdates_1.0-1.dsc
- 180d3e5d7dc82add0a2873ed7d0b648a 5670 arxivupdates_1.0-1_all.deb
+ 9f0b22ac708a1557de8be6891f1bf93a 852 arxivupdates_1.0-1.dsc
+ 44ec3e4e38f986753e1b771ceae72f16 5690 arxivupdates_1.0-1_all.deb
 Checksums-Sha1:
- 26d5113d9b45a6ffd4da707982190215d2fb94c6 852 arxivupdates_1.0-1.dsc
- 3ace0fa3f638f7d6604548d6a8ca2994d162d7be 5670 arxivupdates_1.0-1_all.deb
+ 0a5fb49be1c0ab40157c388024ecb40d42d6c40d 852 arxivupdates_1.0-1.dsc
+ d231b35933dd9527e7541a5fc7939e06d1eaa99a 5690 arxivupdates_1.0-1_all.deb
 Checksums-Sha256:
- 4783cb91d8d817aa1d0f26536ec3c55ae3596797708e758ad0e4639e38b29f17 852 arxivupdates_1.0-1.dsc
- edc73a0864b939b0a6ce943d4d770bce0b83febe36f8937cdf9b82281052b940 5670 arxivupdates_1.0-1_all.deb
+ 513d395bfbc8b5b84a24f9081a167743326a0c8d2814ba177cf56342edd3b14b 852 arxivupdates_1.0-1.dsc
+ fc59c2f64b335fdc618364ad952e131e88b478ad2d68e85b208f32de26b9166a 5690 arxivupdates_1.0-1_all.deb
 Build-Origin: Debian
 Build-Architecture: amd64
-Build-Date: Mon, 08 Oct 2018 20:51:47 +0700
+Build-Date: Mon, 15 Oct 2018 03:27:11 +0700
 Installed-Build-Depends:
  autoconf (= 2.69-10),
  automake (= 1:1.15-6),
@@ -170,4 +170,4 @@ Installed-Build-Depends:
 Environment:
  DEB_BUILD_OPTIONS="parallel=4"
  LANG="en_IN"
- SOURCE_DATE_EPOCH="1538746862"
+ SOURCE_DATE_EPOCH="1539345006"

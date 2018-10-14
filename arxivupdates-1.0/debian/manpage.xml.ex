@@ -59,6 +59,7 @@ man(1), man(7), http://www.tldp.org/HOWTO/Man-Page/
   <!ENTITY dhtitle     "arxivupdates User Manual">
   <!ENTITY dhucpackage "Arxivupdates">
   <!ENTITY dhpackage   "arxivupdates">
+
 ]>
 
 <refentry>

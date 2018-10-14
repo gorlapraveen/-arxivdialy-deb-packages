@@ -4,6 +4,6 @@ dd1d9103fa044fc078059a6271430864  usr/bin/arxiv.sh
 eed6432ec00be1196def4d2d54440519  usr/bin/requirements.py
 1b485a8c45f481c1fa65a469e30aec3f  usr/bin/requirements.txt
 7a568add170241d85748a018185977ef  usr/bin/sotawhat.py
-3045b06cb8b1c85141190ca0462d1bcd  usr/share/doc/arxivupdates/README.Debian
-ab0bb31a659f3a1e57a881c0e2d0bb82  usr/share/doc/arxivupdates/changelog.Debian.gz
-82ec5be9313705825b51c607c53a5881  usr/share/doc/arxivupdates/copyright
+7cd8ca244c550c9c83d113036508ea06  usr/share/doc/arxivupdates/README.Debian
+66c16e7f49378c0cd9ef47cbfcaf9d70  usr/share/doc/arxivupdates/changelog.Debian.gz
+a340986b83139a9dd86512ae8cd76ea2  usr/share/doc/arxivupdates/copyright

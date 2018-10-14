@@ -65,6 +65,7 @@ W: arxivupdates source: dh-make-template-in-source debian/watch.ex
 W: arxivupdates source: superfluous-clutter-in-homepage <insert the upstream URL, if relevant>
 W: arxivupdates source: bad-homepage <insert the upstream URL, if relevant>
 W: arxivupdates source: missing-field-in-dep5-copyright license (paragraph at line 6)
+W: arxivupdates: wrong-bug-number-in-closes l3:#nnnn
 W: arxivupdates: new-package-should-close-itp-bug
 W: arxivupdates: extended-description-line-too-long
 W: arxivupdates: superfluous-clutter-in-homepage <insert the upstream URL, if relevant>
@@ -78,7 +79,7 @@ W: arxivupdates: binary-without-manpage usr/bin/arxiv_required
 W: arxivupdates: binary-without-manpage usr/bin/requirements.py
 W: arxivupdates: binary-without-manpage usr/bin/requirements.txt
 W: arxivupdates: binary-without-manpage usr/bin/sotawhat.py
-W: arxivupdates: executable-not-elf-or-script usr/bin/requirements.txt
-W: arxivupdates: executable-not-elf-or-script usr/bin/requirements.py
 W: arxivupdates: executable-not-elf-or-script usr/bin/sotawhat.py
+W: arxivupdates: executable-not-elf-or-script usr/bin/requirements.py
+W: arxivupdates: executable-not-elf-or-script usr/bin/requirements.txt
 Finished running lintian.

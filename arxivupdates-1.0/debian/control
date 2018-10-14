@@ -14,3 +14,4 @@ Depends: ${misc:Depends}
 Description:Arxiv commandline updates
  This utility is used to get daily arxiv research updates from your terminal, it searches your 
  preferred word by most updated research articles from arxiv repository
+
