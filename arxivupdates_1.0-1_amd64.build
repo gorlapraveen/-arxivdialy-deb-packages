@@ -50,21 +50,10 @@ dpkg-genchanges: info: including full source code in upload
 dpkg-buildpackage: info: full upload (original source is included)
 Now running lintian...
 warning: the authors of lintian do not recommend running it with root privileges!
-W: arxivupdates source: dh-make-template-in-source debian/arxivupdates.cron.d.ex
-W: arxivupdates source: dh-make-template-in-source debian/arxivupdates.default.ex
-W: arxivupdates source: dh-make-template-in-source debian/arxivupdates.doc-base.EX
-W: arxivupdates source: dh-make-template-in-source debian/manpage.1.ex
-W: arxivupdates source: dh-make-template-in-source debian/manpage.sgml.ex
-W: arxivupdates source: dh-make-template-in-source debian/manpage.xml.ex
-W: arxivupdates source: dh-make-template-in-source debian/menu.ex
-W: arxivupdates source: dh-make-template-in-source debian/postinst.ex
-W: arxivupdates source: dh-make-template-in-source debian/postrm.ex
-W: arxivupdates source: dh-make-template-in-source debian/preinst.ex
-W: arxivupdates source: dh-make-template-in-source debian/prerm.ex
-W: arxivupdates source: dh-make-template-in-source debian/watch.ex
-W: arxivupdates source: superfluous-clutter-in-homepage <insert the upstream URL, if relevant>
-W: arxivupdates source: bad-homepage <insert the upstream URL, if relevant>
-W: arxivupdates source: missing-field-in-dep5-copyright license (paragraph at line 6)
+dpkg-source: error: LC_ALL=C patch -t -F 0 -N -p1 -u -V never -E -b -B .pc/added-logo2/ --reject-file=- < /tmp/temp-lintian-lab-6e0xweF4xU/pool/a/arxivupdates/arxivupdates_1.0-1_source/unpacked/debian/patches/added-logo2 gave error exit status 1
+internal error: dpkg-source -x failed with status  2 at /usr/share/lintian/collection/unpacked line 72.
+warning: collect info unpacked about package arxivupdates failed
+warning: skipping check of source package arxivupdates
 W: arxivupdates: wrong-bug-number-in-closes l3:#nnnn
 W: arxivupdates: new-package-should-close-itp-bug
 W: arxivupdates: extended-description-line-too-long
